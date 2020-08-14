@@ -11,7 +11,9 @@ WSTP 既允许外部程序调用 Wolfram 语言，也允许 Wolfram 语言调用
 |       $System  | C compiler |   C++ compiler  |
 |  ------------    |   ----------     |   -----------        |
 |     "Linux"	   | gcc (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3) |   g++ (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3) |  
-|    "Linux-x86-64" |  gcc (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3) |  g++ (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3) |  
+|    "Linux-x86-64" |  gcc (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3) |  g++ (GCC) 4.4.6 20110731 (Red Hat 4.4.6-3) |    
+ 
+ 
 本文介绍在Ubuntu下使用  
 + 安装 WSTP 组件  
 > WSTP 开发工具包（WSDK）位于 Wolfram 系统目录内的$InstallationDirectory/SystemFiles/Links/WSTP/DeveloperKit/$SystemID 目录中.
